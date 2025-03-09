@@ -7,7 +7,7 @@ Amany Fashwan, Hosam Shahata, Mohamed Hamed, Nouran Mohamed, Sandy Eshak
 Objective:
 Develop an automated testing framework to conduct end-to-end testing for a web application, ensuring its functionality, performance, and reliability.
 
-Project Overview:
+Project Overview
 This project focuses on building a comprehensive test suite using Selenium or a similar automation framework. The framework will cover UI testing, functional validation, and performance testing. Test cases will be developed for critical workflows, ensuring a seamless user experience. Additionally, automated test reports will be generated for analysis and debugging.
 
 Technologies & Tools:
