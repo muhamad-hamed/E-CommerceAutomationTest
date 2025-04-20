@@ -1,5 +1,15 @@
 **Automated Testing Framework for E-Commerce Web Applications**
 
+# Important Notice
+
+**This repository has been moved to a new location.**
+
+> **Warning:** This repository is no longer actively maintained. Please visit the new location for updates:
+>
+> [https://github.com/ApexQA/saucedemo-selenium-automation](https://github.com/ApexQA/saucedemo-selenium-automation)
+
+Make sure to update your bookmarks and references to avoid any disruptions.
+
 **Team Members**
 - Amany Fashwan
 - Hosam Shahata
